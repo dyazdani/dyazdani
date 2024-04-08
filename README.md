@@ -1,3 +1,3 @@
 ## Hi, I'm Dara. Welcome! 😀
 
-I am a full-stack engineer comfortable with JavaScript, TypeScript, HTML5, CSS3, React, Redux, and PostgreSQL. I am interested in web and healthcare application development, including both patient-facing and provider-facing software. I am also a licensed speech-language pathologist and former actor.
+I'm a full-stack software engineer in web, working mostly with JavaScript, React, and Node. I am especially interested in the healthcare tech space -– I have a background in the medical field from my previous work as a speech-language pathologist.
