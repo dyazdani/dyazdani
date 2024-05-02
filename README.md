@@ -10,8 +10,8 @@ When I was an actor and director, I loved joining forces with a team of passiona
 
 I love building full-stack web applications using:
 - languages: JavaScript / Typescript
-- front-End: React / Redux Toolkit / Vanilla JS / HTML / CSS
-- back-End: Node / Express
+- front-end: React / Redux Toolkit / Vanilla JS / HTML / CSS
+- back-end: Node / Express
 - database: PostgreSQL / Prisma
 
 I am also good at:
