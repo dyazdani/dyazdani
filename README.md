@@ -1,4 +1,4 @@
-## Hi, I'm Dara. Welcome! 😀
+# Hi, I'm Dara. Welcome! 😀
 
 ### About Me
 
